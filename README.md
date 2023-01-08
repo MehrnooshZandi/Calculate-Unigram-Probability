@@ -1,2 +1,2 @@
-# Calculate-Words-Unigram-Probability
-In this Repository we calculate Word unigram probabilities with Python.
+# Calculate-Unigram-Probability
+In this Repository we calculate unigram probabilities with Python.
